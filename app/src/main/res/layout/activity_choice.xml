@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:layout_weight="0.39"
+        android:background="@drawable/pictureback"
+        android:backgroundTint="@color/pictureback">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ImageView
+                android:id="@+id/exerciseImg"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_alignParentEnd="true"
+                android:layout_marginRight="10dp"
+                app:srcCompat="@drawable/personwhite" />
+
+            <TextView
+                android:id="@+id/pictureText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="SELECT EXERCISE"
+                android:textSize="28pt"
+                android:textColor="@android:color/white"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginBottom="29dp" />
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_weight="0.1"
+        android:orientation="vertical">
+
+
+        <RelativeLayout
+            android:id="@+id/ropeSkippingView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/colorrope">
+
+            <ImageView
+                android:id="@+id/ropeImageView"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="0dp"
+                android:layout_marginStart="20dp"
+                app:srcCompat="@drawable/ropeicon" />
+
+            <Button
+                android:id="@+id/rope_skipping"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/colorrope"
+                android:paddingLeft="38dip"
+                android:text="ROPE-SKIPPING"
+                android:textAlignment="center"
+                android:textColor="@color/selectGray"
+                android:textSize="15pt" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/squatlayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/backred">
+
+
+            <ImageView
+                android:id="@+id/squatImageView"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="20dp"
+                app:srcCompat="@drawable/squaticon" />
+
+            <Button
+                android:id="@+id/squat"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/backred"
+                android:text="SQUAT"
+                android:textAlignment="center"
+                android:textColor="@color/selectGray"
+                android:textSize="20pt" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/lungeView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/coloryellow">
+
+            <ImageView
+                android:id="@+id/lungeImageView"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_marginStart="20dp"
+                app:srcCompat="@drawable/lungeicon" />
+
+            <Button
+                android:id="@+id/lunge"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/coloryellow"
+                android:text="LUNGE"
+                android:textAlignment="center"
+                android:textColor="@color/selectGray"
+                android:textSize="20pt" />
+        </RelativeLayout>
+    </LinearLayout>
+</LinearLayout>

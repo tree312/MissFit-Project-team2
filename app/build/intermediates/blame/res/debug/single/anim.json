@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\2a4e17729a052bac46dd6ed1354a2265ac3199ee\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\2a4e17729a052bac46dd6ed1354a2265ac3199ee\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\3f439c19c264f024097a8f9c4c14eb3b2cc31f70\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\3f439c19c264f024097a8f9c4c14eb3b2cc31f70\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\2a4e17729a052bac46dd6ed1354a2265ac3199ee\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\2a4e17729a052bac46dd6ed1354a2265ac3199ee\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\3f439c19c264f024097a8f9c4c14eb3b2cc31f70\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\3f439c19c264f024097a8f9c4c14eb3b2cc31f70\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\2a4e17729a052bac46dd6ed1354a2265ac3199ee\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_search.xml",
+        "source": "C:\\Missfit\\app\\src\\main\\res\\anim\\fab_search.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_search.xml",
+        "source": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\src\\main\\res\\anim\\fab_search.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_search.xml",
+        "source": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\src\\main\\res\\anim\\fab_search.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\1c6d8b0653368fc0503aecb64305e7618bc815ee\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\d81a5d21110f47d367741c0850c72e69425d849b\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\ac2eb1906f8b9fa06aa10ff512322124e114ab65\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\3f439c19c264f024097a8f9c4c14eb3b2cc31f70\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_search.xml",
+        "source": "C:\\Missfit0906\\app\\src\\main\\res\\anim\\fab_search.xml"
+    },
+    {
+        "merged": "C:\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\eunju\\.android\\build-cache\\3f439c19c264f024097a8f9c4c14eb3b2cc31f70\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\jihyehan\\Downloads\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\jihyehan\\.android\\build-cache\\2a4e17729a052bac46dd6ed1354a2265ac3199ee\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Missfit-20171102T123635Z-001\\Missfit\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Missfit0906\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\수화\\.android\\build-cache\\116d59cfbaac1a21109ef48ce01d889c21fb3e28\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

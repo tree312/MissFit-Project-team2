@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.bridou_n.beaconscanner.features.beaconList.MainActivity">
+
+    <com.dmitrymalkovich.android.ProgressFloatingActionButton
+        android:id="@+id/scan_fab_container"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:clickable="true">
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/scan_fab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/keyline_16"
+            android:src="@drawable/ic_sync_black_24dp"
+            android:tint="@android:color/white"
+            app:fabSize="normal" />
+
+        <ProgressBar
+            android:id="@+id/scan_progress"
+            style="@style/Widget.AppCompat.ProgressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/keyline_4"
+            android:indeterminateTint="@color/colorScanProgress"
+            android:indeterminateTintMode="src_in"
+            android:visibility="invisible" />
+
+    </com.dmitrymalkovich.android.ProgressFloatingActionButton>
+
+
+    -
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?actionBarSize"
+            android:background="?attr/colorPrimary"
+            android:elevation="4dp"
+            android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
+
+
+        <LinearLayout
+            android:id="@+id/rootView"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:layout_below="@+id/toolbar"
+            android:layout_marginTop="40dp"
+            android:orientation="vertical">
+
+            <!--손-->
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="200dp">
+
+                <LinearLayout
+                    android:id="@+id/handView"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:layout_centerInParent="true"
+                                android:text="LeftHand"
+                                android:textColor="@color/handTextColor"
+                                android:textSize="10pt"
+                                android:textStyle="bold" />
+
+                            <ImageView
+                                android:id="@+id/leftHand"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                android:layout_centerInParent="true" />
+
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:layout_centerInParent="true"
+                                android:text="RightHand"
+                                android:textColor="@color/handTextColor"
+                                android:textSize="10pt"
+                                android:textStyle="bold" />
+
+                            <ImageView
+                                android:id="@+id/rightHand"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                android:layout_centerInParent="true" />
+
+                        </RelativeLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="200dp">
+
+
+                <LinearLayout
+                    android:id="@+id/footView"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:layout_weight="1">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:layout_centerInParent="true"
+                                android:layout_marginTop="10dp"
+                                android:text="LeftFoot"
+                                android:textColor="@color/pictureback"
+                                android:textSize="10pt"
+                                android:textStyle="bold" />
+
+                            <ImageView
+                                android:id="@+id/leftFoot"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                android:layout_centerInParent="true" />
+
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    -
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1">
+
+                        <RelativeLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_alignParentBottom="true"
+                                android:layout_centerInParent="true"
+                                android:layout_marginTop="10dp"
+                                android:text="RightFoot"
+                                android:textColor="@color/pictureback"
+                                android:textSize="10pt"
+                                android:textStyle="bold" />
+
+                            <ImageView
+                                android:id="@+id/rightFoot"
+                                android:layout_width="150dp"
+                                android:layout_height="200dp"
+                                android:layout_centerInParent="true" />
+
+                        </RelativeLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+            </RelativeLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/bluetooth_state"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/keyline_48"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/toolbar"
+            android:background="@color/bluetoothDisabledLight"
+            android:elevation="@dimen/keyline_4"
+            android:gravity="center_vertical"
+            android:paddingEnd="@dimen/keyline_16"
+            android:paddingStart="@dimen/keyline_16"
+            android:textColor="@color/bluetoothDisabled"
+            android:textSize="16sp"
+            tools:text="Bluetooth disabled" />
+
+    </RelativeLayout>
+
+</android.support.design.widget.CoordinatorLayout>

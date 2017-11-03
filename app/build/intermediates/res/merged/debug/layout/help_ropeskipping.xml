@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linearRoot"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/popback"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/textback"
+        >
+
+        <TextView
+            android:id="@+id/popTitle"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Level Guide"
+            android:textSize="20pt"
+            android:textStyle="bold"
+            android:textColor="#f9e03d"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginRight="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        >
+
+        <LinearLayout
+            android:id="@+id/levelstart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                android:layout_marginBottom="10dp"
+                app:srcCompat="@drawable/handbase" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="START"
+                android:textAlignment="center"
+                android:textSize="10pt"
+                android:textColor="@color/squatColor"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/level1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                app:srcCompat="@drawable/h1"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Level1"
+                android:textAlignment="center"
+                android:textSize="10pt"
+                android:textColor="@color/squatColor"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/level2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                app:srcCompat="@drawable/h2"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Level2"
+                android:textAlignment="center"
+                android:textSize="10pt"
+                android:textColor="@color/squatColor"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/level3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                android:layout_marginBottom="10dp"
+                app:srcCompat="@drawable/h3" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Level3"
+                android:textAlignment="center"
+                android:textSize="10pt"
+                android:textColor="@color/squatColor"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/level4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                android:layout_marginBottom="10dp"
+                app:srcCompat="@drawable/h4" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Level4"
+                android:textSize="10pt"
+                android:textColor="@color/squatColor"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginRight="6dp"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="10dp"
+        >
+
+        <LinearLayout
+            android:id="@+id/footlevelstart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="73dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                android:layout_marginBottom="10dp"
+                app:srcCompat="@drawable/footbase" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="START"
+                android:textAlignment="center"
+                android:textSize="10pt"
+                android:textColor="@color/pictureback"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/footlevel1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+
+            <ImageView
+                android:layout_width="73dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                app:srcCompat="@drawable/lf1"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Level1"
+                android:textAlignment="center"
+                android:textSize="10pt"
+                android:textColor="@color/pictureback"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/footlevel2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="73dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                app:srcCompat="@drawable/lf2"
+                android:layout_marginBottom="10dp"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Level2"
+                android:textAlignment="center"
+                android:textSize="10pt"
+                android:textColor="@color/pictureback"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/footlevel3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="73dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                android:layout_marginBottom="10dp"
+                app:srcCompat="@drawable/lf3" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Level3"
+                android:textAlignment="center"
+                android:textSize="10pt"
+                android:textColor="@color/pictureback"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/footlevel4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.2"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="73dp"
+                android:layout_height="80dp"
+                android:layout_weight="9"
+                android:layout_marginBottom="10dp"
+                app:srcCompat="@drawable/lf5" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:text="Level4"
+                android:textSize="10pt"
+                android:textColor="@color/pictureback"
+                />
+        </LinearLayout>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="5dp">
+        <TextView
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Press '?' Button if you want to close Window"
+            android:textStyle="bold"
+            android:textColor="@color/pictureback"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#045082</color> <!--1976D2-->
+    <color name="colorPrimary">#045082</color> <!--d0e8fb-->
+    <color name="colorPrimaryLight">#506e87</color>
+    <color name="colorAccent">#03A9F4</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryText">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="selectGray">#767676</color>
+
+    <!-- Bluetooth State colors -->
+    <color name="bluetoothDisabled">#F44336</color>
+    <color name="bluetoothDisabledLight">#f9d0d4</color>
+
+    <color name="bluetoothTurningOff">#FF9800</color>
+    <color name="bluetoothTurningOffLight">#FFE0B2</color>
+
+    <color name="bluetoothTurningOn">#8BC34A</color>
+    <color name="bluetoothTurningOnLight">#DCEDC8</color>
+
+    <color name="bgMoreInfo">#455A64</color>
+    <color name="colorScanProgress">#FFC107</color>
+
+    <color name="pictureback">#045082</color>
+    <color name="lungeColor">#f9e03d</color>
+    <color name="squatColor">#db4132</color>
+    <color name="ropeColor">#911da9</color>
+    <color name="handTextColor">#fca198</color>
+    <color name="trans">#01fca198</color>
+</resources>

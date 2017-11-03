@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_intro"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/colorAccent"
+    tools:context="com.bridou_n.beaconscanner.features.beaconList.IntroActivity">
+
+    <ImageButton
+        android:id="@+id/viewButton"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/startback"
+        android:onClick="introClick" />
+
+    <ImageButton
+        android:id="@+id/centerButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/splashround"
+        android:onClick="introClick" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Miss.Fit"
+        android:textSize="20pt"
+        android:layout_marginBottom="35dp"
+        android:layout_above="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="Press to Start"
+        android:textColor="@color/lungeColor"
+        android:layout_below="@+id/centerButton"
+        android:id="@+id/textView" />
+</RelativeLayout>

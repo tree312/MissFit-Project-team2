@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+<item>
+    <shape>
+    <solid android:color="#ffffff" />
+    <stroke android:width="10dip" android:color="@color/pictureback"/>
+    <corners android:radius="180dp">
+    </corners>
+        </shape>
+</item>
+        <item android:drawable="@drawable/newropeicon" android:top="80dp" android:right="80dp" android:bottom="80dp" android:left="80dp">
+        </item>
+
+    </layer-list>
+
+
+

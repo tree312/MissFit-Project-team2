@@ -1,0 +1,218 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:5:5-68
+MERGED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:6:5-74
+MERGED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:6:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:8:22-64
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:10:5-12:35
+	android:required
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:12:9-32
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:11:9-53
+application
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:14:5-57:19
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\jihyehan\.android\build-cache\be805791edc3ce8204d152bae4b699ba6d30ae85\output\AndroidManifest.xml:22:5-20
+MERGED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:17:5-36:19
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\jihyehan\.android\build-cache\96561bebcd1e574c39e6e70792af3a4a69b59729\output\AndroidManifest.xml:12:5-20
+MERGED from [com.dmitrymalkovich.android:progress-fab:1.6] C:\Users\jihyehan\.android\build-cache\fe48b381950cd1be014be388096ec52780f62635\output\AndroidManifest.xml:11:5-13:44
+MERGED from [com.android.support:design:24.2.1] C:\Users\jihyehan\.android\build-cache\2a4e17729a052bac46dd6ed1354a2265ac3199ee\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\jihyehan\.android\build-cache\d81a5d21110f47d367741c0850c72e69425d849b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\jihyehan\.android\build-cache\8037031a1ebc2fa740764eb50b53535cab0db7bf\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\jihyehan\.android\build-cache\f70c7fcc24f837fe67fe17c2e5b9a001d9269f64\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\jihyehan\.android\build-cache\06d487a4093ebcb15ac7e249b665934febb88322\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\jihyehan\.android\build-cache\6bf8d8415bf93f53085ebc5934b70bc90be69d11\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\jihyehan\.android\build-cache\3167970b5527b651d7999a7fd061da1532f32ced\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\jihyehan\.android\build-cache\df9bf4f504ffe21238f47d5a48a74570d715113e\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\jihyehan\.android\build-cache\68f69daa258aa1a8d17eb45b34bcdb04eae04dff\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\jihyehan\.android\build-cache\e384b40f7760a62574083c1772a78cd322062d17\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:18:9-41
+	android:supportsRtl
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:19:9-35
+	android:allowBackup
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:17:9-43
+	android:theme
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:15:9-37
+activity#com.bridou_n.beaconscanner.features.beaconList.IntroActivity
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:21:19-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:25:27-74
+activity#com.bridou_n.beaconscanner.features.beaconList.MainActivity
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:28:9-70
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:28:19-67
+activity#com.bridou_n.beaconscanner.features.beaconList.SquartActivity
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:29:9-72
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:29:19-69
+activity#com.bridou_n.beaconscanner.features.beaconList.LungeActivity
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:30:9-71
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:30:19-68
+activity#com.bridou_n.beaconscanner.features.beaconList.choice
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:31:9-64
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:31:19-61
+activity#com.bridou_n.beaconscanner.features.beaconList.CalendarActivity
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:32:9-74
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:32:19-71
+activity#com.bridou_n.beaconscanner.features.beaconList.squartSetting
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:33:9-36:47
+	android:label
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:35:13-66
+	android:theme
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:34:13-62
+activity#com.bridou_n.beaconscanner.features.beaconList.lungeSetting
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:37:9-40:47
+	android:label
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:39:13-65
+	android:theme
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:38:13-61
+activity#com.bridou_n.beaconscanner.features.beaconList.ropeTutorialActivity
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:42:9-45:47
+	android:label
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:44:13-62
+	android:theme
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:43:13-69
+activity#com.bridou_n.beaconscanner.features.beaconList.lungeTutorialActivity
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:47:9-50:47
+	android:label
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:49:13-63
+	android:theme
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:50:13-44
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:48:13-70
+activity#com.bridou_n.beaconscanner.features.beaconList.squatTutorialActivity
+ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:52:9-55:47
+	android:label
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:54:13-63
+	android:theme
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:55:13-44
+	android:name
+		ADDED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml:53:13-70
+uses-sdk
+INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:cardview-v7:24.2.1] C:\Users\jihyehan\.android\build-cache\be805791edc3ce8204d152bae4b699ba6d30ae85\output\AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:8.4.0] C:\Users\jihyehan\.android\build-cache\78038f2fb214813202049095f2ef416eb2d8c89d\output\AndroidManifest.xml:5:5-43
+MERGED from [io.reactivex:rxandroid:1.2.1] C:\Users\jihyehan\.android\build-cache\0438269fe16a28450313056c5c1c883b724edc17\output\AndroidManifest.xml:19:5-43
+MERGED from [io.realm:android-adapters:1.3.0] C:\Users\jihyehan\.android\build-cache\bf15e83cd1525d4dfc9df1677efa709c5dfbf377\output\AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:2.0.1] C:\Users\jihyehan\.android\build-cache\c6b459e0db344536325b2cbaed7755f4855ca6bd\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] C:\Users\jihyehan\.android\build-cache\e9eea00f25f4e031ce4d4e416b1558461e2e1ace\output\AndroidManifest.xml:7:5-43
+MERGED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:7:5-9:41
+MERGED from [pub.devrel:easypermissions:0.2.0] C:\Users\jihyehan\.android\build-cache\96561bebcd1e574c39e6e70792af3a4a69b59729\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.dmitrymalkovich.android:progress-fab:1.6] C:\Users\jihyehan\.android\build-cache\fe48b381950cd1be014be388096ec52780f62635\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:24.2.1] C:\Users\jihyehan\.android\build-cache\2a4e17729a052bac46dd6ed1354a2265ac3199ee\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\jihyehan\.android\build-cache\6cdc44648e05711a24e74db680b50b71cdaca03f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.getkeepsafe.taptargetview:taptargetview:1.3.0] C:\Users\jihyehan\.android\build-cache\b0d69c1b0b318115491787fb63c3f565b296e198\output\AndroidManifest.xml:8:5-44
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\jihyehan\.android\build-cache\d81a5d21110f47d367741c0850c72e69425d849b\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\jihyehan\.android\build-cache\8037031a1ebc2fa740764eb50b53535cab0db7bf\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\jihyehan\.android\build-cache\f70c7fcc24f837fe67fe17c2e5b9a001d9269f64\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\jihyehan\.android\build-cache\06d487a4093ebcb15ac7e249b665934febb88322\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\jihyehan\.android\build-cache\6bf8d8415bf93f53085ebc5934b70bc90be69d11\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\jihyehan\.android\build-cache\3167970b5527b651d7999a7fd061da1532f32ced\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\jihyehan\.android\build-cache\df9bf4f504ffe21238f47d5a48a74570d715113e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\jihyehan\.android\build-cache\68f69daa258aa1a8d17eb45b34bcdb04eae04dff\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\jihyehan\.android\build-cache\e384b40f7760a62574083c1772a78cd322062d17\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\jihyehan\.android\build-cache\d81a5d21110f47d367741c0850c72e69425d849b\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\jihyehan\Downloads\Missfit-20171102T123635Z-001\Missfit\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:13:22-78
+uses-permission-sdk-23
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:15:5-88
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:15:29-85
+receiver#org.altbeacon.beacon.startup.StartupBroadcastReceiver
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:18:19-87
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:20:17-79
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:20:25-76
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:21:17-87
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:21:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:22:17-90
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:22:25-87
+service#org.altbeacon.beacon.service.BeaconService
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:26:9-31:38
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:28:13-35
+	android:label
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:29:13-37
+	android:isolatedProcess
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:30:13-44
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:27:13-70
+service#org.altbeacon.beacon.BeaconIntentProcessor
+ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:32:9-35:40
+	android:enabled
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:34:13-35
+	android:exported
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [org.altbeacon:android-beacon-library:2.9.1] C:\Users\jihyehan\.android\build-cache\14f12ce01b93f5730bc2c45d50a8e6888a42d9af\output\AndroidManifest.xml:33:13-70
